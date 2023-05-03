@@ -1,0 +1,2 @@
+# NBA Game Simulator 
+Modification of JDCarbon's NBA Game Simulator as featured on [Medium](https://jd-carbon.medium.com/nba-game-simulator-w-python-flask-dash-and-nba-api-b32d64ff0c12). Flask applet migrated to newer Dash components. 3-Factor playthrough model using Monte Carlo Simulation to develop game winner and margin distribution. Data pulled from the 2022-2023 NBA season for CSCI4511W final project report. 
